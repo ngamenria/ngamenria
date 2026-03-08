@@ -1,35 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
     <!-- Halaman Utama -->
     <url>
-        <loc>https://ngamenria.com/</loc>
-        <lastmod>2024-05-21</lastmod>
+        <loc>https://ngamenria.ngamenria-dab.workers.dev/</loc>
+        <lastmod>2026-03-08</lastmod>
+        <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
-    <!-- Folder Lagu -->
+    <!-- Halaman Lagu -->
     <url>
-        <loc>https://ngamenria.com/lagu/kopi-dan-rintik-hujan.html</loc>
-        <priority>0.9</priority>
-    </url>
-    <url>
-        <loc>https://ngamenria.com/lagu/malam-siangku.html</loc>
-        <priority>0.9</priority>
-    </url>
-    <url>
-        <loc>https://ngamenria.com/lagu/kadang-tak-diciptakan-untuk-dimiliki.html</loc>
+        <loc>https://ngamenria.ngamenria-dab.workers.dev/lagu/kopi-dan-rintik-hujan.html</loc>
+        <lastmod>2024-03-08</lastmod>
+        <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
 
-    <!-- Folder Lirik -->
     <url>
-        <loc>https://ngamenria.com/lirik/lirik-kopi-dan-rintik-hujan.html</loc>
-        <priority>0.8</priority>
+        <loc>https://ngamenria.ngamenria-dab.workers.dev/lagu/malam-siangku.html</loc>
+        <lastmod>2026-03-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
     </url>
 
-    <!-- Folder Chord -->
     <url>
-        <loc>https://ngamenria.com/chord/chord-kopi-dan-rintik-hujan.html</loc>
-        <priority>0.8</priority>
+        <loc>https://ngamenria.ngamenria-dab.workers.dev/lagu/kadang-tak-diciptakan-untuk-dimiliki.html</loc>
+        <lastmod>2026-03-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
     </url>
+
+    <url>
+        <loc>https://ngamenria.ngamenria-dab.workers.dev/lagu/bukan-sekedar-itu.html</loc>
+        <lastmod>2026-03-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
 </urlset>
